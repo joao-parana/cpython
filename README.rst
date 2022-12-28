@@ -1,6 +1,11 @@
 This is Python version 3.9.16
 =============================
 
+The book **CPython Internals: Your Guide to the Python 3 Interpreter** can be viewed
+in `cpython-internals-RealPythonBook <cpython-internals-RealPythonBook.pdf>`_
+
+The book source code is `here https://github.com/tonybaloney/cpython-book-samples`
+
 .. image:: https://travis-ci.org/python/cpython.svg?branch=3.9
    :alt: CPython build status on Travis CI
    :target: https://travis-ci.org/python/cpython
